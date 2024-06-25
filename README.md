@@ -1,3 +1,7 @@
+# :no_entry: DEPRECATED :no_entry:
+
+This repository is no longer being maintained.
+
 # Fidel Cordova Plugin
 
 This plugin is a bridge between Cordova and Fidel's native iOS and Android SDKs. It helps you to add card linking technology to your Cordova apps in minutes. It captures credit/debit card numbers securely and links them to your programs.

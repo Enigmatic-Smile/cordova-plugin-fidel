@@ -1,5 +1,9 @@
 # Fidel Cordova plugin change log
 
+## 1.3.0
+
+- Update the *android-sdk* distribution to the [Enigmatic-Smile](https://github.com/Enigmatic-Smile) organization.
+
 ## 1.2.0
 
 - Now the SDK allows you to select multiple allowed countries from which the user can pick. Please check the docs for information about the new `allowedCountries` option.

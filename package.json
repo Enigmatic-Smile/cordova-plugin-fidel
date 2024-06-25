@@ -1,7 +1,7 @@
 {
   "name": "cordova-plugin-fidel",
   "displayName": "Cordova Fidel Plugin",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "Cordova Plugin that allows developers to access the native Fidel iOS and Android SDKs",
   "cordova": {
     "id": "cordova-plugin-fidel",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FidelLimited/cordova-plugin-fidel.git"
+    "url": "git+https://github.com/Enigmatic-Smile/cordova-plugin-fidel.git"
   },
   "main": "index.js",
   "scripts": {
@@ -41,7 +41,7 @@
   "author": "Fidel <developer@fidel.uk>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/FidelLimited/cordova-plugin-fidel/issues"
+    "url": "https://github.com/Enigmatic-Smile/cordova-plugin-fidel/issues"
   },
-  "homepage": "https://github.com/FidelLimited/cordova-plugin-fidel#readme"
+  "homepage": "https://github.com/Enigmatic-Smile/cordova-plugin-fidel#readme"
 }

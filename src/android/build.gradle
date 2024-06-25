@@ -44,7 +44,7 @@ repositories {
 dependencies {
     implementation 'org.jetbrains:annotations-java5:15.0'
     implementation 'org.apache.cordova:framework:9.0.0'
-    implementation 'com.github.FidelLimited:android-sdk:1.5.1'
+    implementation 'com.github.Enigmatic-Smile:android-sdk:1.5.1'
     implementation 'com.google.code.gson:gson:2.8.5'
     implementation group: 'com.google.code.findbugs', name: 'jsr305', version: '3.0.2'
     testImplementation 'junit:junit:4.12'
